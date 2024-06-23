@@ -6,3 +6,9 @@
 .navbar{
     background-color: rgb(69, 240, 183);
 }
+
+img{
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
